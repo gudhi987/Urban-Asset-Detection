@@ -4,3 +4,12 @@ __pycache__/
 *.pyo
 
 .git/
+
+**/images/
+**/masks/
+datasets/semantic_buildings_in_aerial_imagery/
+
+*.zip
+
+yolo_dataset/
+unified_dataset/
